@@ -1,0 +1,33 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.top-header img{
+    height: 31px;
+    width: 225px;
+  
+
+}
+.top-menu ul{
+    display: flex;
+    height: 24px;
+    width: 414px;
+
+
+   
+}
+.top-menu ul li{
+    font-size: 18px;
+    margin-left: 18px;
+   list-style: none;
+}
+h1{
+    color: #FABE4C;
+    font-size: 70px;
+    font-weight: 700;
+    
+}
+span{
+    color: #363958;
+    font-size: 70px;
+    font-weight: 700;
+}
