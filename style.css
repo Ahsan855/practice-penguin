@@ -7,6 +7,13 @@ body{
   
 
 }
+.btn-success{
+    background: #98b235;
+    border-color: #98b235;
+}
+.main-color{
+    color: #fffbf0;
+}
 .top-menu ul{
     display: flex;
     height: 24px;
@@ -30,4 +37,22 @@ span{
     color: #363958;
     font-size: 70px;
     font-weight: 700;
+}
+.pink-color{
+    color: #FABE4C;
+    font-size: 30px;
+}
+.image-sizing img{
+    margin-top: 90px;
+    margin-left: 50px;
+    max-width: 100%;
+}
+.size{
+    font-size: 60px;
+    color: #98b235;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.moja{
+    text-align: center;
 }
